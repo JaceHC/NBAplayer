@@ -11,4 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+    //code added to bring users to websites for the accolades and stats of different NBA players
+
 }
